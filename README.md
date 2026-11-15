@@ -8,7 +8,7 @@
 
 A native Mac launcher for managing game libraries, Windows runtimes and game sessions.
 
-**Public beta preparation is underway.** Downloads become available here after bundled-runtime distribution review is complete.
+**Public beta 1.0.0-beta.1** — [Download for Mac](https://github.com/wehnnit/WehniX-Launcher/releases/tag/v1.0.0-beta.1). Free for personal, noncommercial use.
 
 ![WehniX Launcher library](assets/launcher-library.png)
 
@@ -24,7 +24,13 @@ A native Mac launcher for managing game libraries, Windows runtimes and game ses
 
 ## Installation
 
-When a beta is available, download its DMG from [Releases](https://github.com/wehnnit/WehniX-Launcher/releases), open it and drag WehniX Launcher to Applications. For an ad-hoc signed beta, macOS may require you to open System Settings → Privacy & Security and choose Open Anyway after the first launch attempt. An ad-hoc signature does not provide Apple Developer ID publisher verification or notarization. Review the release notes and checksum before approving it. Launch from Applications and follow setup. Keep additional free space available for game installs and runtime updates.
+Download the beta DMG from [Releases](https://github.com/wehnnit/WehniX-Launcher/releases), open it and drag WehniX Launcher to Applications. For an ad-hoc signed beta, macOS may require you to open System Settings → Privacy & Security and choose Open Anyway after the first launch attempt. An ad-hoc signature does not provide Apple Developer ID publisher verification or notarization. Review the release notes and checksum before approving it. Launch from Applications and follow setup. Keep additional free space available for game installs and runtime updates.
+
+## Updates
+
+The launcher checks published releases automatically. It verifies downloads with the pinned publisher key and installs app updates on idle quit. Engine updates activate after games and save operations finish. The release website shows the current beta download automatically.
+
+[Terms](https://wehnix-launcher.wehnit-studios.workers.dev/tos.html) · [Privacy](https://wehnix-launcher.wehnit-studios.workers.dev/privacy.html)
 
 ## Support
 
