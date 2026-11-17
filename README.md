@@ -8,7 +8,7 @@
 
 A native Mac launcher for managing game libraries, Windows runtimes and game sessions.
 
-**Public beta 1.0.1-beta.2** — [Download for Mac](https://github.com/wehnnit/WehniX-Launcher/releases/tag/v1.0.1-beta.2). Free for personal, noncommercial use.
+**Public beta 1.0.2-beta.3** — [Download for Mac](https://github.com/wehnnit/WehniX-Launcher/releases/tag/v1.0.2-beta.3). Free for personal, noncommercial use.
 
 ![WehniX Launcher library](assets/launcher-library.png)
 
