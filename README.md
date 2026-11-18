@@ -8,7 +8,7 @@
 
 A native Mac launcher for managing game libraries, Windows runtimes and game sessions.
 
-**Public beta 1.0.2-beta.3** — [Download for Mac](https://github.com/wehnnit/WehniX-Launcher/releases/tag/v1.0.2-beta.3). Free for personal, noncommercial use.
+**Public beta 1.0.3-beta.4** — [Download for Mac](https://github.com/wehnnit/WehniX-Launcher/releases/tag/v1.0.3-beta.4). Free for personal, noncommercial use.
 
 ![WehniX Launcher library](assets/launcher-library.png)
 
@@ -28,7 +28,7 @@ Download the beta DMG from [Releases](https://github.com/wehnnit/WehniX-Launcher
 
 ## Updates
 
-The launcher checks published releases automatically. It verifies downloads with the pinned publisher key and installs app updates on idle quit. Engine updates activate after games and save operations finish. The release website shows the current beta download automatically.
+The launcher checks published releases automatically. It verifies downloads with the pinned publisher key and installs app updates on idle quit. After an app update, WehniX prepares newer bundled engine versions when games and save operations finish. Pinned games keep their existing engine version. The release website shows the current beta download automatically.
 
 [Terms](https://wehnix-launcher.wehnit-studios.workers.dev/tos.html) · [Privacy](https://wehnix-launcher.wehnit-studios.workers.dev/privacy.html)
 
