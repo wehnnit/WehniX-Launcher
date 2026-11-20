@@ -12,6 +12,10 @@ A native Mac launcher for managing game libraries, Windows runtimes and game ses
 
 ![WehniX Launcher library](assets/launcher-library.png)
 
+## Controller layout
+
+Connect a PlayStation 4, PlayStation 5 or Xbox controller over USB or Bluetooth and the launcher opens a console layout with your library. Opening a game shows the saved runtime, graphics and launch settings before you press Play, and starting still needs an explicit button press. Moving the mouse, trackpad or keyboard returns to the desktop layout, and controller input brings the console layout back. The behaviour can be turned off in Settings → Controller.
+
 ## Requirements
 
 | | Current bundled gaming configuration |
