@@ -6,9 +6,9 @@
 
 [Website](https://wehnix-launcher.wehnit-studios.workers.dev) · [Releases](https://github.com/wehnnit/WehniX-Launcher/releases) · [Report a bug](https://github.com/wehnnit/WehniX-Launcher/issues)
 
-A native Mac launcher for managing game libraries, Windows runtimes and game sessions. Optional Discord Rich Presence shows launcher pages and the game you are viewing or running when the local Discord app is available.
+A native Mac launcher for managing game libraries, Windows runtimes and game sessions. When a PlayStation or Xbox controller is connected, an optional console layout opens with the same library and the same per-game configuration; moving the mouse or trackpad returns to the desktop layout. Optional Discord Rich Presence shows launcher pages and the game you are viewing or running when the local Discord app is available.
 
-**Public beta 1.0.3-beta.5** — [Download for Mac](https://github.com/wehnnit/WehniX-Launcher/releases/tag/v1.0.3-beta.5). Free for personal, noncommercial use.
+**Public beta 1.0.4-beta.6** — [Download for Mac](https://github.com/wehnnit/WehniX-Launcher/releases/tag/v1.0.4-beta.6). Free for personal, noncommercial use.
 
 ![WehniX Launcher library](assets/launcher-library.png)
 
