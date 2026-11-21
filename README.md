@@ -8,7 +8,7 @@
 
 A native Mac launcher for managing game libraries, Windows runtimes and game sessions. When a PlayStation or Xbox controller is connected, an optional console layout opens with the same library and the same per-game configuration; moving the mouse or trackpad returns to the desktop layout. Optional Discord Rich Presence shows launcher pages and the game you are viewing or running when the local Discord app is available.
 
-**Public beta 1.0.9-beta.11** — [Download for Mac](https://github.com/wehnnit/WehniX-Launcher/releases/tag/v1.0.9-beta.11). Free for personal, noncommercial use. This build restores the console top and hint bars above the ambient backdrop, keeps the backdrop from flashing and the focused card ring unclipped while moving, and makes updates clean up after themselves, so staged archives and old rollback copies stop consuming gigabytes. The update-and-quit path remains the one verified end to end.
+**Public beta 1.0.9-beta.12** — [Download for Mac](https://github.com/wehnnit/WehniX-Launcher/releases/tag/v1.0.9-beta.12). Free for personal, noncommercial use. This build adds full game settings and a controller-friendly Run Command file picker to console mode, and fixes the grey strip along the console's left edge in the titled window. Engines, saves and existing launch profiles are unchanged. The update-and-quit path remains the one verified end to end.
 
 ![WehniX Launcher library](assets/launcher-library.png)
 
